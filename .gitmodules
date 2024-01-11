@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:msfalif404/belajar-git-submodule.git
